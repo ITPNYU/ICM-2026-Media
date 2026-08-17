@@ -14,13 +14,13 @@ The following is an overview of how we will be spending class time over the next
 * 8 - 14 -- [ICM media](https://github.com/ITPNYU/ICM-2025-media)
   
 ## Section Info
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Mimi-01)
-* 02 [Mimi](sections/02_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Mimi-02)
-* 03 [Shawn Van Every](sections/03_Shawn.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Shawn-03)
-* 04 [Ellen](sections/04_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Ellen-04)
-* 05 [John-Henry](sections/05_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-John-Henry-05)
-* 06 [Dave](sections/06_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Dave-06)
-* 07 [Sam](sections/07_Sam.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Sam-07)
+* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-John-Henry-01)
+* 02 [Ellen](sections/02_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Ellen-02)
+* 03 [Dave](sections/03_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Dave-03)
+* 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Mimi-04)
+* 05 [Luisa](sections/05_Luisa.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Luisa-05)
+* 06 [Allison](sections/05_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Allison-06)
+* 07 [Mimi](sections/07_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Mimi-07)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
