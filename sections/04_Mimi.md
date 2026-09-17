@@ -8,11 +8,11 @@
 
 ## Dates
 
-1. Wednesday, October 28
-2. Wednesday, November 4
-3. Wednesday, November 11
-4. Wednesday, November 18
-5. Wednesday, November 25
-6. Wednesday, Dec 2
-7. Wednesday, Dec 9
+1. Wednesday, October 21 <-- Early 1st meeting
+2. Wednesday, October 28
+3. Wednesday, November 4
+4. Wednesday, November 11
+5. Wednesday, November 18
+7. Wednesday, Dec 2 <-- No class on Nov 25
+8. Wednesday, Dec 9
 
