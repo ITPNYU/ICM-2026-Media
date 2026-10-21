@@ -9,7 +9,7 @@
 * [Introduction to Neural Networks and Pixel Analysis](https://www.youtube.com/watch?v=aircAruvnKk) (20 minutes, but be prepared to spend an hour. Don't try to watch on 2x speed.)
 
 ### How we see
-   * [Why Isn't the Sky Blue?](https://radiolab.org/episodes/211119-colors)
+   * [Why Isn't the Sky Blue?](https://radiolab.org/episodes/211119-colors) | [What Would It Mean to See a New Color?](https://drive.google.com/file/d/1W8JGLUTbQF3G6XTS5x1tj6Kf0JzEUYbz/view?usp=sharing)
    * [Movement and Vision](https://news.harvard.edu/gazette/story/2020/08/harvard-scientists-find-vision-relates-to-movement/)
    * [Optical Illusions](https://www.amnh.org/explore/ology/brain/optical-illusions-and-how-they-work)
    * [Seeing versus Perceiving Motion](https://en.wikipedia.org/wiki/Motion_perception)
