@@ -16,7 +16,7 @@ The following is an overview of how we will be spending class time over the next
 
 ## Section Info
 
-- 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-John-Henry-01)
+- 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-John-Henry-01)
 - 02 [Ellen](sections/02_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Ellen-02)
 - 03 [Dave](sections/03_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Dave-03)
 - 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Media/wiki/Homework-Mimi-04)
