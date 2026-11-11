@@ -2,7 +2,7 @@
 
 ### Readings, Videos, Podcasts
 * [Signing, Singing, Speaking: How Language Evolved](https://www.npr.org/templates/story/story.php?storyId=129155123)
-* [Why repeating words sound like music to your brain](https://en.wikipedia.org/wiki/Speech-to-song_illusion)
+* [Why repeating words sound like music to your brain](https://en.wikipedia.org/wiki/Speech-to-song_illusion) | [Sound Recording](https://drive.google.com/file/d/1XXrvO38nHJ6qS3ZyDd-pt0eNIw9Rjapk/view?usp=sharing)
 * [Do-A-Deer](https://www.youtube.com/watch?v=drnBMAEA3AM)
 * [How to write a melody.](https://www.edmprod.com/ultimate-melody-guide/)
 * [Watch: Notes and Neurons: In Search of the Common Chorus](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=0s)
